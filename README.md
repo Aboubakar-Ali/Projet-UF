@@ -1,2 +1,2 @@
 # Projet-UF
-Vous trouverez cijoint les documentations deu projet UF
+Vous trouverez ci-joint les documentations du projet UF
